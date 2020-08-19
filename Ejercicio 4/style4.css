@@ -1,0 +1,8 @@
+input[name="Name"] {
+  background-color: greenyellow;
+}
+label[for="visitante"] {
+    font-weight: bolder;
+    font-size: large;
+    color: orangered;
+  }

@@ -1,0 +1,15 @@
+.blueTitle {
+  color: blue;
+}
+.redTitle {
+  color: red;
+}
+.orangeTitle {
+  color: orange;
+}
+.centered{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
